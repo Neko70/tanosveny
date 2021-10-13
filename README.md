@@ -1,5 +1,5 @@
 # tanosveny
-Tanösvény ajámló weblap
+Tanösvény ajánló weblap
 
 verzió 1.0
 
