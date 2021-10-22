@@ -9,3 +9,12 @@ Lehetőség van bejelentkezésre az adatbázisban előre beállított felhaszná
 A bejentkezettek hozzáférést kaptak a Hírek oldalhoz, olvashatják az előre feltöltött véleményeket.
 A többi oldal egyelőre nincs elkészítve.
 Reszpozívitás Bootstrapt 5-el van biztosítva.
+
+verzió 2.0
+
+Bővöltek a funkciók:
+- Kezdő oldal bővült.
+- A bejelentkezés mellett lehetőség van regisztrációra is.
+- A bejelenkezett írhat új vélemény.
+- Létre lett hozva a Tanosvények oldal (helyi SOAP még nincs).
+- Létre lett hozva az Árfolyam oldal (lekérdezés, táblázat, grafikon).
