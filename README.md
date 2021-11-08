@@ -18,3 +18,10 @@ Bővöltek a funkciók:
 - A bejelenkezett írhat új vélemény.
 - Létre lett hozva a Tanosvények oldal (helyi SOAP még nincs).
 - Létre lett hozva az Árfolyam oldal (lekérdezés, táblázat, grafikon).
+
+verzió 3.0 - végleges
+
+Implementálva lett a helyi soap-szerver.
+test.php (teszt script a soap-szerver ellenőrzésére).
+A Tanösvények oldal a helyi SOAP-ot használja.
+Külső webtárhelyen is meg lett valósítva.
